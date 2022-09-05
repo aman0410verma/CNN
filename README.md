@@ -8,4 +8,4 @@ Project on mnist dataset with pnz file containing 60000 images.This CNN uses mac
 ![download](https://user-images.githubusercontent.com/112889066/188496893-14157242-9053-4c1b-9cef-c6eec7d5f62f.png)
 
 # Model Layers
-![image](https://user-images.githubusercontent.com/112889066/188496954-09353ce3-69a8-4819-87a9-fe09f29d17f9.png)
+![download](https://user-images.githubusercontent.com/112889066/188499590-05afa897-266c-4163-9a32-0ab78e259997.png)
